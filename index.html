@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/src/main.css" />
+
+    <title>Radar chart</title>
+  </head>
+  <body>
+    <div class="titles">
+      <h1>🍔BURGER YUMYUM🍔</h1>
+      <div id="burger-name"></div>
+
+      <label for="options-label" class="options-label"
+        >Choose your burger
+      </label>
+      <select name="options" id="options"></select>
+    </div>
+
+    <!-- 댄싱버거 움짤 -->
+    <div class="chart-container">
+      <img src="/200w.gif" alt="Left Image" id="left-gif" />
+      <div id="svg-container"></div>
+      <img src="/200w.gif" alt="Right Image" id="right-gif" />
+    </div>
+
+    <!-- Absolute path for Vite -->
+    <script type="module" src="/src/starter.js"></script>
+    <!-- <script type="module" src="/src/viz.js"></script> -->
+    <!-- <script type="module" src="/src/viz_interaction.js"></script> -->
+  </body>
+</html>
