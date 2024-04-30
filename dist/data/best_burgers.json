@@ -1,0 +1,156 @@
+[
+  {
+    "Brand": "Five Guys",
+    "Food_Quality": 72,
+    "Speed_of_Service": 76,
+    "Value_for_Money_Spent": 61,
+    "Healthy_Options": 32,
+    "Overall_Cleanliness": 71,
+    "Staff_Friendliness": 73,
+    "Curb_Appeal": 68,
+    "Atmosphere": 64
+  },
+  {
+    "Brand": "In-N-Out",
+    "Food_Quality": 71,
+    "Speed_of_Service": 73,
+    "Value_for_Money_Spent": 54,
+    "Healthy_Options": 28,
+    "Overall_Cleanliness": 68,
+    "Staff_Friendliness": 71,
+    "Curb_Appeal": 61,
+    "Atmosphere": 57
+  },
+  {
+    "Brand": "Smashburger",
+    "Food_Quality": 61,
+    "Speed_of_Service": 61,
+    "Value_for_Money_Spent": 52,
+    "Healthy_Options": 26,
+    "Overall_Cleanliness": 66,
+    "Staff_Friendliness": 67,
+    "Curb_Appeal": 59,
+    "Atmosphere": 55
+  },
+  {
+    "Brand": "Culver's",
+    "Food_Quality": 59,
+    "Speed_of_Service": 71,
+    "Value_for_Money_Spent": 45,
+    "Healthy_Options": 26,
+    "Overall_Cleanliness": 58,
+    "Staff_Friendliness": 70,
+    "Curb_Appeal": 58,
+    "Atmosphere": 63
+  },
+  {
+    "Brand": "Whataburger",
+    "Food_Quality": 55,
+    "Speed_of_Service": 49,
+    "Value_for_Money_Spent": 41,
+    "Healthy_Options": 23,
+    "Overall_Cleanliness": 56,
+    "Staff_Friendliness": 58,
+    "Curb_Appeal": 57,
+    "Atmosphere": 48
+  },
+  {
+    "Brand": "Steak 'n Shake",
+    "Food_Quality": 50,
+    "Speed_of_Service": 48,
+    "Value_for_Money_Spent": 39,
+    "Healthy_Options": 21,
+    "Overall_Cleanliness": 53,
+    "Staff_Friendliness": 51,
+    "Curb_Appeal": 52,
+    "Atmosphere": 48
+  },
+  {
+    "Brand": "Dairy Queen",
+    "Food_Quality": 44,
+    "Speed_of_Service": 42,
+    "Value_for_Money_Spent": 36,
+    "Healthy_Options": 20,
+    "Overall_Cleanliness": 49,
+    "Staff_Friendliness": 49,
+    "Curb_Appeal": 46,
+    "Atmosphere": 43
+  },
+  {
+    "Brand": "Red Robin",
+    "Food_Quality": 43,
+    "Speed_of_Service": 38,
+    "Value_for_Money_Spent": 34,
+    "Healthy_Options": 19,
+    "Overall_Cleanliness": 53,
+    "Staff_Friendliness": 48,
+    "Curb_Appeal": 41,
+    "Atmosphere": 38
+  },
+  {
+    "Brand": "Sonic",
+    "Food_Quality": 41,
+    "Speed_of_Service": 42,
+    "Value_for_Money_Spent": 36,
+    "Healthy_Options": 20,
+    "Overall_Cleanliness": 49,
+    "Staff_Friendliness": 47,
+    "Curb_Appeal": 43,
+    "Atmosphere": 42
+  },
+  {
+    "Brand": "Jack In The Box",
+    "Food_Quality": 35,
+    "Speed_of_Service": 39,
+    "Value_for_Money_Spent": 39,
+    "Healthy_Options": 15,
+    "Overall_Cleanliness": 40,
+    "Staff_Friendliness": 38,
+    "Curb_Appeal": 40,
+    "Atmosphere": 35
+  },
+  {
+    "Brand": "Wendy's",
+    "Food_Quality": 35,
+    "Speed_of_Service": 34,
+    "Value_for_Money_Spent": 34,
+    "Healthy_Options": 15,
+    "Overall_Cleanliness": 38,
+    "Staff_Friendliness": 37,
+    "Curb_Appeal": 41,
+    "Atmosphere": 36
+  },
+  {
+    "Brand": "Carl's Jr.",
+    "Food_Quality": 35,
+    "Speed_of_Service": 35,
+    "Value_for_Money_Spent": 33,
+    "Healthy_Options": 15,
+    "Overall_Cleanliness": 37,
+    "Staff_Friendliness": 38,
+    "Curb_Appeal": 37,
+    "Atmosphere": 29
+  },
+  {
+    "Brand": "Burger King",
+    "Food_Quality": 32,
+    "Speed_of_Service": 32,
+    "Value_for_Money_Spent": 32,
+    "Healthy_Options": 14,
+    "Overall_Cleanliness": 38,
+    "Staff_Friendliness": 35,
+    "Curb_Appeal": 38,
+    "Atmosphere": 35
+  },
+  {
+    "Brand": "McDonald's",
+    "Food_Quality": 26,
+    "Speed_of_Service": 29,
+    "Value_for_Money_Spent": 14,
+    "Healthy_Options": 13,
+    "Overall_Cleanliness": 34,
+    "Staff_Friendliness": 35,
+    "Curb_Appeal": 25,
+    "Atmosphere": 25
+  }
+]
