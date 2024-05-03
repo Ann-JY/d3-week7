@@ -4,10 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
@@ -15,5 +16,6 @@
   },
   "dependencies": {
     "d3": "^7.8.5"
-  }
+  },
+  "homepage": "https://Ann-JY.github.io/d3-week7/"
 }
